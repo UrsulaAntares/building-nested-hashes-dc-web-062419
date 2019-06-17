@@ -25,6 +25,7 @@ def first_challenge
             :attitude => "hot-headed"
          }
          ]
-     }
+     },
+     :
    }
 end
