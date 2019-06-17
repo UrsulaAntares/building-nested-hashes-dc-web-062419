@@ -20,7 +20,9 @@ def first_challenge
            :attitude => "worried"
          },
          {
-           :name
+            :name => "Mercutio",
+            :age => "18",
+            :attitude => "hot-headed"
          }
          ]
      }
